@@ -1,0 +1,144 @@
+[
+  {
+    "title": "The Saratoga Estate",
+    "location": "Saratoga, CA",
+    "category": "new-construction",
+    "label": "New Construction",
+    "cover": "images/portfolio/new-construction/saratoga-estate/the-saratoga-estate.png",
+    "photos": [
+      "images/portfolio/new-construction/saratoga-estate/the-saratoga-estate.png",
+      "images/portfolio/new-construction/saratoga-estate/ranch-remodel-exterior.png"
+    ]
+  },
+  {
+    "title": "Curved Staircase",
+    "location": "Saratoga, CA · In Progress",
+    "category": "new-construction",
+    "label": "New Construction",
+    "cover": "images/portfolio/new-construction/curved-staircase/curved-staircase.png",
+    "photos": [
+      "images/portfolio/new-construction/curved-staircase/curved-staircase.png"
+    ]
+  },
+  {
+    "title": "Ranch Remodel Exterior",
+    "location": "Saratoga, CA",
+    "category": "new-construction",
+    "label": "New Construction",
+    "cover": "images/portfolio/new-construction/ranch-remodel-exterior/Cover.png",
+    "photos": [
+      "images/portfolio/new-construction/ranch-remodel-exterior/Cover.png",
+      "images/portfolio/new-construction/ranch-remodel-exterior/61.png",
+      "images/portfolio/new-construction/ranch-remodel-exterior/63.png",
+      "images/portfolio/new-construction/ranch-remodel-exterior/64.png",
+      "images/portfolio/new-construction/ranch-remodel-exterior/65.png",
+      "images/portfolio/new-construction/ranch-remodel-exterior/66.png",
+      "images/portfolio/new-construction/ranch-remodel-exterior/ranch-remodel-exterior.png",
+      "images/portfolio/new-construction/ranch-remodel-exterior/the-saratoga-estate.png",
+      "images/portfolio/new-construction/ranch-remodel-exterior/the-saratoga-estate-exterior.png"
+    ]
+  },
+  {
+    "title": "Primary Suite Refresh",
+    "location": "Saratoga, CA",
+    "category": "interior-design",
+    "label": "Interior Design",
+    "cover": "images/portfolio/interior-design/primary-suite-refresh/cover.png",
+    "photos": [
+      "images/portfolio/interior-design/primary-suite-refresh/cover.png",
+      "images/portfolio/interior-design/primary-suite-refresh/primary-suite-detail.png"
+    ]
+  },
+  {
+    "title": "Craftsman Entryway",
+    "location": "Saratoga, CA",
+    "category": "interior-design",
+    "label": "Interior Design",
+    "cover": "images/portfolio/interior-design/craftsman-entryway/craftsman-entryway.png",
+    "photos": [
+      "images/portfolio/interior-design/craftsman-entryway/craftsman-entryway.png"
+    ]
+  },
+  {
+    "title": "Foyer Transformation",
+    "location": "Los Gatos, CA",
+    "category": "remodel",
+    "label": "Remodel",
+    "cover": "images/portfolio/remodel/foyer-transformation/COVER.png",
+    "photos": [
+      "images/portfolio/remodel/foyer-transformation/COVER.png",
+      "images/portfolio/remodel/foyer-transformation/25.png",
+      "images/portfolio/remodel/foyer-transformation/30.png",
+      "images/portfolio/remodel/foyer-transformation/34.png",
+      "images/portfolio/remodel/foyer-transformation/36.png",
+      "images/portfolio/remodel/foyer-transformation/38.png",
+      "images/portfolio/remodel/foyer-transformation/foyer-transformation.png"
+    ]
+  },
+  {
+    "title": "Glass Study Nook",
+    "location": "Los Gatos, CA",
+    "category": "remodel",
+    "label": "Remodel",
+    "cover": "images/portfolio/remodel/glass-study-nook/16.png",
+    "photos": [
+      "images/portfolio/remodel/glass-study-nook/16.png",
+      "images/portfolio/remodel/glass-study-nook/glass-study-nook.png"
+    ]
+  },
+  {
+    "title": "Fireplace Detail",
+    "location": "Bay Area, CA",
+    "category": "3d-rendering",
+    "label": "3D Rendering",
+    "cover": "images/portfolio/3d-rendering/fireplace-detail/cover.png",
+    "photos": [
+      "images/portfolio/3d-rendering/fireplace-detail/cover.png",
+      "images/portfolio/3d-rendering/fireplace-detail/fireplace-detail.png"
+    ]
+  },
+  {
+    "title": "Formal Living Room",
+    "location": "Bay Area, CA",
+    "category": "3d-rendering",
+    "label": "3D Rendering",
+    "cover": "images/portfolio/3d-rendering/formal-living-room/2.png",
+    "photos": [
+      "images/portfolio/3d-rendering/formal-living-room/2.png",
+      "images/portfolio/3d-rendering/formal-living-room/3.png",
+      "images/portfolio/3d-rendering/formal-living-room/4.png",
+      "images/portfolio/3d-rendering/formal-living-room/5.png",
+      "images/portfolio/3d-rendering/formal-living-room/6.png",
+      "images/portfolio/3d-rendering/formal-living-room/7.png",
+      "images/portfolio/3d-rendering/formal-living-room/8.png",
+      "images/portfolio/3d-rendering/formal-living-room/10.png",
+      "images/portfolio/3d-rendering/formal-living-room/11.png",
+      "images/portfolio/3d-rendering/formal-living-room/12.png",
+      "images/portfolio/3d-rendering/formal-living-room/13.png",
+      "images/portfolio/3d-rendering/formal-living-room/14.png",
+      "images/portfolio/3d-rendering/formal-living-room/15.png",
+      "images/portfolio/3d-rendering/formal-living-room/16.png",
+      "images/portfolio/3d-rendering/formal-living-room/18.png",
+      "images/portfolio/3d-rendering/formal-living-room/19.png",
+      "images/portfolio/3d-rendering/formal-living-room/20.png",
+      "images/portfolio/3d-rendering/formal-living-room/25.png",
+      "images/portfolio/3d-rendering/formal-living-room/26.png",
+      "images/portfolio/3d-rendering/formal-living-room/27.png",
+      "images/portfolio/3d-rendering/formal-living-room/28.png"
+    ]
+  },
+  {
+    "title": "Primary Bathroom",
+    "location": "Bay Area, CA",
+    "category": "3d-rendering",
+    "label": "3D Rendering",
+    "cover": "images/portfolio/3d-rendering/primary-bathroom/cover.png",
+    "photos": [
+      "images/portfolio/3d-rendering/primary-bathroom/cover.png",
+      "images/portfolio/3d-rendering/primary-bathroom/21.png",
+      "images/portfolio/3d-rendering/primary-bathroom/23.png",
+      "images/portfolio/3d-rendering/primary-bathroom/24.png",
+      "images/portfolio/3d-rendering/primary-bathroom/29.png"
+    ]
+  }
+]
